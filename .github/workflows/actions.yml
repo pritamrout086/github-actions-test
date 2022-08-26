@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - master
+   # tags:
+   #   - v1
+   # paths:
+   #   - *.jsp
   #repository_dispatch:
   #  types: [build]
   #schedule:
